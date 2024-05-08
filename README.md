@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+<a href="https://app.daily.dev/leonchanwy"><img src="https://api.daily.dev/devcards/v2/s9VAetGENgq2OMdM8iaAl.png?type=default&r=h7u" width="356" alt="Leon Chan's Dev Card"/></a>
 
 <!--
 **leonchanwy/leonchanwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
